@@ -11,17 +11,17 @@
 **html:**
 
 
-![html example](html-example.png)
+![html example](./images/html-example.png)
 
 **css:**
 
-![css example](css-example.png)
+![css example](./images/css-example.png)
 
 
 **js:**
 
 
-![js example](js-example.png)
+![js example](./images/js-example.png)
 
 
 
