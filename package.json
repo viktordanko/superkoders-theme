@@ -1,0 +1,28 @@
+{
+	"name": "superkoders",
+	"displayName": "SUPERKODERS",
+	"description": "SUPERKODERS color theme for Visual Studio Code",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.41.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dark",
+		"superkoders"
+	],
+	"contributes": {
+		"themes": [{
+			"label": "SUPERKODERS Theme",
+			"uiTheme": "vs-dark",
+			"path": "./themes/SUPERKODERS.json"
+		}]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/viktordanko/superkoders-theme"
+	}
+}
