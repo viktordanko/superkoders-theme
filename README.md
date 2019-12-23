@@ -3,22 +3,19 @@
 > SUPERKODERS VSCode color theme
 
 
-**Enjoy!**
-
-
 **Examples:**
 
-**html:**
+**HTML:**
 
 
 ![html example](./images/html-example.png)
 
-**css:**
+**CSS:**
 
 ![css example](./images/css-example.png)
 
 
-**js:**
+**Javascript:**
 
 
 ![js example](./images/js-example.png)
