@@ -414,6 +414,7 @@
 				"keyword.control.from.tsx"
 			],
 			"settings": {
+				"foreground": "#ec5f67",
 				"fontStyle": "italic"
 			}
 		},
