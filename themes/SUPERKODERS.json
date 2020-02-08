@@ -310,6 +310,16 @@
 		{
 			"name": "Operators",
 			"scope": [
+				"keyword.operator.new.js"
+			],
+			"settings": {
+				"foreground": "#5ce3d4",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Operators",
+			"scope": [
 				"keyword.operator.assignment.js"
 			],
 			"settings": {
