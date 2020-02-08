@@ -3,7 +3,7 @@
 	"displayName": "SUPERKODERS",
 	"description": "SUPERKODERS color theme for Visual Studio Code",
 	"publisher": "viktordanko",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"icon": "images/logo.png",
 	"engines": {
 		"vscode": "^1.41.0"
